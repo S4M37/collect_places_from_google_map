@@ -1,4 +1,4 @@
-# Collect places from google map
+# Collect places from google/HERE maps APIs
 This Api devoleped with Java JRE 1.8.0_40, it collect places from google maps, u give an array of lat/lon 
 and the api fill-in an excel file some basic information of businesses. 
 <br>add this jar:
